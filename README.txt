@@ -1,0 +1,2 @@
+Diabetes Predictor Chatbot that uses an ML model trained using random forests to predict whether a person 
+is diabetic or not. Run app.py on your anaconda prompt to host the webpage on the local server. 
